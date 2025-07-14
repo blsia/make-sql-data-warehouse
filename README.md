@@ -1,2 +1,2 @@
-# make-sql-data-warehouse
-Training make a modern DWH 
+# A modern Data Warehouse 
+This is one of my project to data engineering
